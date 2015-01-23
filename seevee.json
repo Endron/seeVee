@@ -1,0 +1,114 @@
+{
+    "firstname"   : "",
+    "lastname"    : "",
+    "dateofbirth" : "",
+    "title"       : "",
+    "jobtitle"    : "",
+    "company"     : "",
+    "contact"     : {
+        "landline" : "",
+        "mobile"   : "",
+        "email"    : "",
+        "website"  : "",
+        "address" : {
+            "street"      : "",
+            "postalcode"  : "",
+            "city"        : "",
+            "country"     : "",
+            "state"       : ""
+        }
+    },
+    "qualification":                "",
+    "qualificationalinstitution" : 	"",
+    "languages" : [
+        {
+            "name"       : "",
+            "isocode"    : "",
+            "percentage" : 0
+        },
+        {
+            "name"       : "",
+            "isocode"    : "",
+            "percentage" : 0
+        }
+    ],
+    "certifications" : [
+        {
+            "certificationshortname"  : "", 
+            "certificationtooltip"    : "",
+            "certificationtooltipurl" : "",
+            "showcase": true
+        },
+        {
+            "certificationshortname"  : "", 
+            "certificationtooltip"    : "",
+            "certificationtooltipurl" : "",
+            "showcase": true
+        }
+    ],
+    "topskills"  : [
+        {
+            "name"        : "",
+            "percentage"  : 0
+        },
+        {
+            "name"        : "",
+            "percentage"  : 0
+        }
+    ],
+    "aboutme" : [
+        "",
+        ""
+    ],
+    "experience" : [
+        "",
+        ""
+    ],
+    "methodicalskills" : [
+        "",
+        ""
+    ],
+    "industryskills" : [
+        "",
+        ""
+    ],
+    "itskills" : [
+        "",
+        ""
+    ],
+    "projecthistory" : [
+        {
+            "fromDate"        : "1970-01-01",
+            "toDate"          : "1970-01-01",
+            "companyName"     : "",
+            "companyWebsite"  : "",
+            "companyCity"     : "",
+            "position"        : "",
+            "project"         : "",
+            "softwareUsed" : [
+                "", ""
+            ],
+            "descriptionTextBlocks" : [
+                "",
+                ""
+            ]
+        },
+        {
+            "fromDate"        : "1970-01-01",
+            "toDate"          : "1970-01-01",
+            "companyName"     : "",
+            "companyWebsite"  : "",
+            "companyCity"     : "",
+            "position"        : "",
+            "project"         : "",
+            "softwareUsed" : [
+                "", ""
+            ],
+            "descriptionTextBlocks" : [
+                "",
+                ""
+            ]
+        }
+    ]
+
+}
