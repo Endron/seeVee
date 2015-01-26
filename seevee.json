@@ -1,21 +1,21 @@
 {
-    "firstname"   : "Tobias",
-    "lastname"    : "Kremer",
-    "dateofbirth" : "22.05.1984",
-    "title"       : "Dipl.-Ing. (FH)",
-    "jobtitle"    : "Lean Java Expert",
-    "company"     : "comSysto GmbH",
+    "firstname"   : "Fluffy",
+    "lastname"    : "Fluffster",
+    "dateofbirth" : "01.08.1980",
+    "title"       : "Bachelor of Fluff",
+    "jobtitle"    : "Chief Executive Flufficer",
+    "company"     : "Fluffmazing Co.",
     "contact"     : {
-        "landline" : "",
-        "mobile"   : "",
-        "email"    : "",
-        "website"  : "https://www.endron.github.io",
+        "landline" : "+99 999 666 333",
+        "mobile"   : "+99 999 666 222",
+        "email"    : "fluffy@fluffmazing.üü",
+        "website"  : "fluffmazing.üü",
         "address" : {
-            "street"      : "",
-            "postalcode"  : "",
-            "city"        : "",
-            "country"     : "",
-            "state"       : ""
+            "street"      : "Softstreet 2",
+            "postalcode"  : "77777",
+            "city"        : "Fluffington",
+            "country"     : "United Statees of Fluff",
+            "state"       : "Fluffrida"
         }
     },
     "qualification":                "",
@@ -34,79 +34,51 @@
     ],
     "certifications" : [
         {
-            "certificationshortname"  : "", 
-            "certificationtooltip"    : "",
-            "certificationtooltipurl" : "",
-            "showcase": true
-        },
-        {
-            "certificationshortname"  : "", 
-            "certificationtooltip"    : "",
+            "certificationshortname"  : "Worlds fluffiest thingy",
+            "certificationtooltip"    : "feel the fluff!",
             "certificationtooltipurl" : "",
             "showcase": true
         }
     ],
     "topskills"  : [
         {
-            "name"        : "",
-            "percentage"  : 0
+            "name"        : "Being fluffy",
+            "percentage"  : 100
         },
         {
-            "name"        : "",
-            "percentage"  : 0
+            "name"        : "Being solid",
+            "percentage"  : 5
         }
     ],
     "aboutme" : [
-        "",
-        ""
+        "I love training the fluff."
     ],
     "experience" : [
-        "",
-        ""
+        "3 Years Fluff Master"
     ],
     "methodicalskills" : [
-        "",
-        ""
+        "When I work then with Scrum and Kanban ... but most of the time I am just fluffy."
     ],
     "industryskills" : [
-        "",
-        ""
+        "textile industry"
     ],
     "itskills" : [
-        "",
-        ""
+        "Groovy"
     ],
     "projecthistory" : [
         {
-            "fromDate"        : "1970-01-01",
-            "toDate"          : "1970-01-01",
-            "companyName"     : "",
+            "fromDate"        : "1983-01-01",
+            "toDate"          : "1986-03-01",
+            "companyName"     : "Chief Executive Flufficer",
             "companyWebsite"  : "",
-            "companyCity"     : "",
-            "position"        : "",
-            "project"         : "",
+            "companyCity"     : "Fluffmazing Co.",
+            "position"        : "Chief Executive Flufficer",
+            "project"         : "everything",
             "softwareUsed" : [
-                "", ""
+                "Groovy", "Java"
             ],
             "descriptionTextBlocks" : [
-                "",
-                ""
-            ]
-        },
-        {
-            "fromDate"        : "1970-01-01",
-            "toDate"          : "1970-01-01",
-            "companyName"     : "",
-            "companyWebsite"  : "",
-            "companyCity"     : "",
-            "position"        : "",
-            "project"         : "",
-            "softwareUsed" : [
-                "", ""
-            ],
-            "descriptionTextBlocks" : [
-                "",
-                ""
+                "I was da BOSS!"
             ]
         }
     ]
