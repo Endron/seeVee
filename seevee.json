@@ -1,0 +1,86 @@
+{
+    "firstname"   : "Fluffy",
+    "lastname"    : "Fluffster",
+    "dateofbirth" : "01.08.1980",
+    "title"       : "Bachelor of Fluff",
+    "jobtitle"    : "Chief Executive Flufficer",
+    "company"     : "Fluffmazing Co.",
+    "contact"     : {
+        "landline" : "+99 999 666 333",
+        "mobile"   : "+99 999 666 222",
+        "email"    : "fluffy@fluffmazing.üü",
+        "website"  : "fluffmazing.üü",
+        "address" : {
+            "street"      : "Softstreet 2",
+            "postalcode"  : "77777",
+            "city"        : "Fluffington",
+            "country"     : "United Statees of Fluff",
+            "state"       : "Fluffrida"
+        }
+    },
+    "qualification":                "",
+    "qualificationalinstitution" : 	"",
+    "languages" : [
+        {
+            "name"       : "",
+            "isocode"    : "",
+            "percentage" : 0
+        },
+        {
+            "name"       : "",
+            "isocode"    : "",
+            "percentage" : 0
+        }
+    ],
+    "certifications" : [
+        {
+            "certificationshortname"  : "Worlds fluffiest thingy",
+            "certificationtooltip"    : "feel the fluff!",
+            "certificationtooltipurl" : "",
+            "showcase": true
+        }
+    ],
+    "topskills"  : [
+        {
+            "name"        : "Being fluffy",
+            "percentage"  : 100
+        },
+        {
+            "name"        : "Being solid",
+            "percentage"  : 5
+        }
+    ],
+    "aboutme" : [
+        "I love training the fluff."
+    ],
+    "experience" : [
+        "3 Years Fluff Master"
+    ],
+    "methodicalskills" : [
+        "When I work then with Scrum and Kanban ... but most of the time I am just fluffy."
+    ],
+    "industryskills" : [
+        "textile industry"
+    ],
+    "itskills" : [
+        "Groovy"
+    ],
+    "projecthistory" : [
+        {
+            "fromDate"        : "1983-01-01",
+            "toDate"          : "1986-03-01",
+            "companyName"     : "Chief Executive Flufficer",
+            "companyWebsite"  : "",
+            "companyCity"     : "Fluffmazing Co.",
+            "position"        : "Chief Executive Flufficer",
+            "project"         : "everything",
+            "softwareUsed" : [
+                "Groovy", "Java"
+            ],
+            "descriptionTextBlocks" : [
+                "I was da BOSS!"
+            ]
+        }
+    ]
+
+}
