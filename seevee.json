@@ -1,10 +1,10 @@
 {
-    "firstname"   : "Fluffy",
-    "lastname"    : "Fluffster",
-    "dateofbirth" : "01.08.1980",
-    "title"       : "Bachelor of Fluff",
-    "jobtitle"    : "Chief Executive Flufficer",
-    "company"     : "Fluffmazing Co.",
+    "firstname"   : "Tobias Alexander",
+    "lastname"    : "Kremer",
+    "dateofbirth" : "22.05.1984",
+    "title"       : "Dipl.-Ing. (FH)",
+    "jobtitle"    : "Lean Java Expert",
+    "company"     : "comSysto GmbH",
     "contact"     : {
         "landline" : "+99 999 666 333",
         "mobile"   : "+99 999 666 222",
