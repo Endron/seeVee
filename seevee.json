@@ -1,7 +1,6 @@
 {
     "firstname"   : "Fluffy",
     "lastname"    : "Fluffster",
-    "dateofbirth" : "01.08.1980",
     "title"       : "Bachelor of Fluff",
     "company"     : "Fluffmazing Co.",
     "contact"     : {
