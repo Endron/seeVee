@@ -10,10 +10,10 @@
         "email"    : "fluffy@fluffmazing.üü",
         "website"  : "fluffmazing.üü",
         "address" : {
-            "street"      : "Softstreet 2",
-            "postalcode"  : "77777",
-            "city"        : "Fluffington",
-            "country"     : "United Statees of Fluff",
+            "street"      : "",
+            "postalcode"  : "",
+            "city"        : "",
+            "country"     : "",
             "state"       : "Fluffrida"
         }
     },
