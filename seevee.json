@@ -10,8 +10,8 @@
         "website"  : "fluffmazing.üü",
         "address" : {
             "street"      : "",
-            "postalcode"  : "",
-            "city"        : "",
+            "postalcode"  : "81549",
+            "city"        : "München",
             "country"     : "",
             "state"       : "Fluffrida"
         }
