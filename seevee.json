@@ -9,7 +9,7 @@
         "email"    : "fluffy@fluffmazing.üü",
         "website"  : "fluffmazing.üü",
         "address" : {
-            "street"      : "",
+            "street"      : "Fakestreet 123",
             "postalcode"  : "81549",
             "city"        : "München",
             "country"     : "",
