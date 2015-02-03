@@ -20,12 +20,12 @@
     "qualificationalinstitution" : 	"",
     "languages" : [
         {
-            "name"       : "",
-            "percentage" : 0
+            "name"       : "German",
+            "percentage" : 100
         },
         {
-            "name"       : "",
-            "percentage" : 0
+            "name"       : "English",
+            "percentage" : 75
         }
     ],
     "certifications" : [
