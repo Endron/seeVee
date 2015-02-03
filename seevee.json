@@ -1,7 +1,9 @@
 {
     "firstname"   : "Fluffy",
-    "lastname"    : "the Mighty",
+    "lastname"    : "Fluffster",
+    "dateofbirth" : "01.08.1980",
     "title"       : "Bachelor of Fluff",
+    "jobtitle"    : "Chief Executive Flufficer",
     "company"     : "Fluffmazing Co.",
     "contact"     : {
         "landline" : "+99 999 666 333",
@@ -9,11 +11,9 @@
         "email"    : "fluffy@fluffmazing.üü",
         "website"  : "fluffmazing.üü",
         "address" : {
-            "street"      : "Fakestreet 123",
-            "postalcode"  : "81549",
-            "city"        : "München",
-            "country"     : "",
-            "state"       : "Fluffrida"
+            "street"      : "Softstreet 2",
+            "postalcode"  : "77777",
+            "city"        : "Fluffington",
         }
     },
     "qualification":                "",
@@ -21,12 +21,10 @@
     "languages" : [
         {
             "name"       : "",
-            "isocode"    : "",
             "percentage" : 0
         },
         {
             "name"       : "",
-            "isocode"    : "",
             "percentage" : 0
         }
     ],
@@ -68,8 +66,6 @@
             "fromDate"        : "1983-01-01",
             "toDate"          : "1986-03-01",
             "companyName"     : "Chief Executive Flufficer",
-            "companyWebsite"  : "",
-            "companyCity"     : "Fluffmazing Co.",
             "position"        : "Chief Executive Flufficer",
             "project"         : "everything",
             "softwareUsed" : [
